@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al -l -d . 0x00-shell_basics
+ls -al -l -d . manual manual/0x00-shell_basics
